@@ -13,7 +13,7 @@ Our work is underscored by two meticulously crafted datasets for road marking cl
 
 2. **Toronto-Rdmk**: 
    - Designed for road marking segmentation.
-   - [[link](https://drive.google.com/file/d/1MSl5K81hVxSzobLSXNUOnAXVAkbVtDkn/view?usp=drive_link)https://drive.google.com/file/d/1MSl5K81hVxSzobLSXNUOnAXVAkbVtDkn/view?usp=drive_link)]
+   - [[link](https://drive.google.com/file/d/1MSl5K81hVxSzobLSXNUOnAXVAkbVtDkn/view?usp=drive_link)]
 
 
 
