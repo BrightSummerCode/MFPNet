@@ -7,13 +7,10 @@ Effective road marking classification and segmentation are essential in enhancin
 ## Datasets
 Our work is underscored by two meticulously crafted datasets for road marking classification and segmentation:
 
-1. **RdmkNet**:
+**RdmkNet**:
    - Designed for road marking classification. 
    - [[link](https://drive.google.com/file/d/1f82Gnr3nipll-ut8TygsEqYPYwcfdjGd/view?usp=drive_link)]
 
-2. **Toronto-Rdmk**: 
-   - Designed for road marking segmentation.
-   - [[link](https://drive.google.com/file/d/1MSl5K81hVxSzobLSXNUOnAXVAkbVtDkn/view?usp=drive_link)]
 
 
 
